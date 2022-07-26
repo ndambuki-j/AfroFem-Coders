@@ -43,3 +43,6 @@ For example, consider Barack Obama's wikipedia page:
 * Barack_Obama_en.wikipedia.org_desktop_all-agents : these visits came from desktop devices.
 * Barack_Obama_en.wikipedia.org_mobile-web_all-agents: these visits came from mobile devices.
 
+##Flatten the Dataset
+To flatten the dataset use flatten.py 
+
